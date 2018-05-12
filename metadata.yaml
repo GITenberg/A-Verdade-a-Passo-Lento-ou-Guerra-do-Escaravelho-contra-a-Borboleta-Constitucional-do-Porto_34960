@@ -1,0 +1,32 @@
+_repo: A-Verdade-a-Passo-Lento-ou-Guerra-do-Escaravelho-contra-a-Borboleta-Constitucional-do-Porto_34960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+  editor:
+    agent_name: Esteves, João Nunes
+    alias: Esteves, Joao Nunes
+    gutenberg_agent_id: '37348'
+    url: http://www.gutenberg.org/2009/agents/37348
+description: ''
+gutenberg_issued: '2011-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34960'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Letters to the editor -- Portugal'
+- !lcsh 'Portugal -- History -- 19th century'
+title: A Verdade a Passo Lento ou Guerra do Escaravelho contra a Borboleta Constitucional
+  do Porto
+url: http://www.gutenberg.org/ebooks/34960
